@@ -1,4 +1,4 @@
-# COLORS
+# Colorway
 
 
 A simple color palette for the web. Let's be honest, out of the box, the color strings that css provides aren't... the tops.
