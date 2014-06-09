@@ -1,15 +1,13 @@
 # COLORS
 
-## Better colors for the web.
-
-View the project page at [http://clrs.cc](http://clrs.cc "Colors: Better colors for the web.")
-
-## What is this?
 
 A simple color palette for the web. Let's be honest, out of the box, the color strings that css provides aren't... the tops.
 This is a set of sass/less/stylus/css variables and css classes that can help fix that.
 
-## Install colors.css
+Inspired by [mrmrs](http://mrmrs.cc/), a minimalist genius.
+
+
+## Install 
 
 You can get the code a few different ways
 
@@ -17,24 +15,7 @@ Download a zip from this page
 
 Clone / fork the repo through git
 ```bash
-git clone git@github.com:mrmrs/colors.git
-```
-
-Install [through npm](https://www.npmjs.org/package/colors.css)
-```bash
-npm install --save-dev colors.css
-```
-
-Install the [ruby gem](http://rubygems.org/gems/clrs)
-```
-gem install clrs
-```
-
-### Using the css
-Simply copy colors.css to your css directory and include the file like so in the head of your html document
-
-```html
-<link rel="stylesheet" href="css/colors.css">
+git clone git@github.com:benjohnston/colorway.git
 ```
 
 ### Using sass, stylus, less, and myth
@@ -126,15 +107,11 @@ If you are compiling less and want to run autoprefixer - you can run that on com
 
 ```
 
-# Author
-[MRMRS](http://mrmrs.cc "Adam Morse - Designer + Developer in SF")
-
-
 # License
 
 The MIT License (MIT)
 
-Copyright (c) 2014 @mrmrs
+Copyright (c) 2014 @benjohnston 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
